@@ -1,0 +1,24 @@
+train: /Users/harshalrajput/Desktop/mlops_yolo/Dataset/train
+val: /Users/harshalrajput/Desktop/mlops_yolo/Dataset/val
+nc: 20
+names: ['sofa',
+        'chair',
+        'pottedplant',
+        'person',
+        'sheep',
+        'tvmonitor',
+        'bottle',
+        'dog',
+        'car',
+        'boat',
+        'horse',
+        'train',
+        'cat',
+        'diningtable',
+        'bus',
+        'motorbike',
+        'aeroplane',
+        'bird',
+        'bicycle',
+        'cow'
+]
